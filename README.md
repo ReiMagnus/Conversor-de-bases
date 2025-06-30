@@ -1,5 +1,5 @@
 # Conversor-de-bases
-Aplicativo desenvolvido em Flutter para a disciplina de Computação Móvel da Faculdade Unita, pelos estudantes Leonardo Yan Corrêa Cordeiro e Caio Henrique da Silva Santos, em 2025.
+Aplicativo desenvolvido em Flutter para a disciplina de Computação Móvel da Faculdade Unitau, pelos estudantes Leonardo Yan Corrêa Cordeiro e Caio Henrique da Silva Santos, em 2025.
 
 Otimize seus cálculos com precisão e agilidade! Este aplicativo foi desenvolvido especialmente para profissionais da área de tecnologia e estudantes de informática que precisam converter e calcular entre diferentes bases numéricas: binário (base 2), octal (base 8), decimal (base 10) e hexadecimal (base 16).
 Com uma interface intuitiva e recursos avançados, o app oferece três modos de cálculo:
